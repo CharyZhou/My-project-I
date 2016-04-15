@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "746DD157EE3EE723C53300920C44A80E71D9003B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "98AD792A4528DF2D61CA4576EA39377C8AB666A7" : 0,
+    "746DD157EE3EE723C53300920C44A80E71D9003B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F1B3F613-895E-47CF-AA6D-8CC1B2CC276F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "98AD792A4528DF2D61CA4576EA39377C8AB666A7" : "",
+    "746DD157EE3EE723C53300920C44A80E71D9003B" : "Novel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Novel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Novel.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Charyzhou\/charyzhou.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "746DD157EE3EE723C53300920C44A80E71D9003B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Charyzhou\/My-project-I.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98AD792A4528DF2D61CA4576EA39377C8AB666A7"
+    }
+  ]
+}
